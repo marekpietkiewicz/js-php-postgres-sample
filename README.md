@@ -2,7 +2,7 @@
 A simple app to show a way how in easy and clean way, to communicate php with postgres using xhr requests.
 
 # the goal
-As mentioned, just a simple app, but showing how to integrate some coll stuff such as vanilla JS, symfony, twig, composer, postgresql, xhr requests in clean way.
+As mentioned, just a simple app, but showing how to integrate some cool stuff such as vanilla JS, symfony, twig, composer, postgresql, xhr requests in clean way.
 
 # what the app does?
 1. Creates a web app using PHP that uses the two Postgresql tables “Colors” and “Votes”.
