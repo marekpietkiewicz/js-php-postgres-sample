@@ -42,3 +42,10 @@ extension=php_pgsql.dll
 ```
 5. install composer and run "composer install" in main app folder
 6. enjoy, cheers :)
+
+# some screenshots
+![alt text](https://github.com/woodee444/js-php-postgres-sample/blob/master/img/1.PNG?raw=true)
+
+![alt text](https://github.com/woodee444/js-php-postgres-sample/blob/master/img/2.PNG?raw=true)
+
+![alt text](https://github.com/woodee444/js-php-postgres-sample/blob/master/img/3.PNG?raw=true)
