@@ -1,0 +1,19 @@
+{
+    "name": "marek/small-app",
+    "description": "Created just to show off some skills",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marek Pietkiewicz",
+            "email": "mmpietkiewicz@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarekApp\\": "src/"
+        }
+    }
+}
